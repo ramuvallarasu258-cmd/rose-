@@ -1,4 +1,4 @@
-# 🦞 ROSE — Personal AI Assistant
+# 🌷 ROSE — Personal AI Assistant
 
 <p align="center">
     <picture>
@@ -279,7 +279,7 @@ Minimal `~/.rose/rose.json` (model + defaults):
 
 ## Molty
 
-ROSE was built for **Molty**, a space lobster AI assistant. 🦞
+ROSE was built for **Molty**, a space lobster AI assistant. 🌷
 by Peter Steinberger and the community.
 
 - [rose.ai](https://rose.ai)
@@ -290,7 +290,7 @@ by Peter Steinberger and the community.
 ## Community
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines, maintainers, and how to submit PRs.
-AI/vibe-coded PRs welcome! 🤖
+AI/vibe-coded PRs welcome! 🌷
 
 Special thanks to [Mario Zechner](https://mariozechner.at/) for his support and for
 [pi-mono](https://github.com/badlogic/pi-mono).
